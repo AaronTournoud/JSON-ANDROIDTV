@@ -14,6 +14,14 @@
     "thumbnailUrl": "https://alangulotv2.su/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9jemFfZHNwb3J0cy5odG1s",
     "streamUrl": "https://sudamericaplay.sbs/canal_8112/dsports4541.html",
     "isHls": false
+  },
+  {
+    "id": "mi-canal-3",
+    "title": "DSports 2 En Vivo",
+    "description": "Retransmisión deportiva",
+    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMDszlNpvUISP9ByTZueKyCzuXWRzCY2q7p7yNuyo_A&s=10",
+    "streamUrl": "https://alangulotv2.su/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC5zYnMvZ2xvYmFsMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+    "isHls": false
   }
   
 ]
