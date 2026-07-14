@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mi-canal-1",
+    "title": "TyC Sports En Vivo",
+    "description": "Retransmisión deportiva",
+    "thumbnailUrl": "https://images.seeklogo.com/logo-png/34/1/tyc-sports-logo-png_seeklogo-340604.png",
+    "streamUrl": "https://streamtp.sbs/global2.php?stream=tycsports",
+    "isHls": false
+  },
+  {
+    "id": "mi-canal-2",
+    "title": "DSports En Vivo",
+    "description": "Retransmisión deportiva",
+    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsYdR4DpfSS1iwEsd0jtMElZPVQAwj5Taz5rxuA4Mtgg&s=10",
+    "streamUrl": "https://sudamericaplay.sbs/canal_8112/dsports4541.html",
+    "isHls": false
+  }
+  
+]
